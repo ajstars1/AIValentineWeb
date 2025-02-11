@@ -61,7 +61,7 @@ yesButton.addEventListener('click', () => {
     // Change image and display a message
     pookieImage.src =
       "https://media.tenor.com/-ywpcfbOQLsAAAAj/bugcact-capoo.gif"; // Replace with your happy image
-    message.textContent = "Knew you would say yes!";
+    message.textContent = "Knew you would say yes! My Disney Princess!";
     message.style.opacity = 1;
     noButton.style.display = 'none'; // Hide the "No" button
     yesButton.style.display = "none";
